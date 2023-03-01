@@ -9,7 +9,7 @@ As far as this specific project goes, it is intended to demonstrate my basic und
 
 ## Setting Up/ Getting Started
 
-This version of the project is just a few HTML files-- no additional setup should be required to view this in a modern web browser. 
+This version of the project is just a few HTML files deployed through GitHub. View the work at: https://elorahob.github.io/odin-recipes/
 
 ## Future Plans
 
